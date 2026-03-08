@@ -44,6 +44,13 @@
   - 来源：整理自你的仓库 `idea-loopback-recovery`。
   - 标签：`IDEA`、`JetBrains`、`Git`、`askpass`、`loopback`、`Windows`
 
+### deployment-and-ops
+
+- `skills/deployment-and-ops/openclaw/openclaw-ubuntu-install`
+  - 主题：Ubuntu 服务器上使用 `nvm + Node.js 22 + systemd` 安装和稳定运行 OpenClaw 的流程。
+  - 来源：整理自 `E:/aitest/demo/OPENCLAW_UBUNTU_INSTALL.md`。
+  - 标签：`OpenClaw`、`Ubuntu`、`nvm`、`Node.js`、`systemd`、`SSH`、`VPS`
+
 ## 目录结构
 
 ```text
