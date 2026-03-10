@@ -51,6 +51,11 @@
   - 来源：整理自 `E:/aitest/demo/OPENCLAW_UBUNTU_INSTALL.md`。
   - 标签：`OpenClaw`、`Ubuntu`、`nvm`、`Node.js`、`systemd`、`SSH`、`VPS`
 
+- `skills/deployment-and-ops/openclaw/feishu-multiagent-troubleshooting`
+  - 主题：OpenClaw 接入飞书后，多 Agent 编排、机器人绑定、私聊或群聊不回复、mention 识别失败等问题的排查流程。
+  - 来源：整理自 `tmpdoc/feishu-multiagent-troubleshooting`。
+  - 标签：`OpenClaw`、`Feishu`、`多 Agent`、`Agent2Agent`、`群聊`、`机器人绑定`、`故障排查`
+
 ## 目录结构
 
 ```text
