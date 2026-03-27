@@ -41,19 +41,16 @@
 
 - `skills/development-tools/jetbrains-idea/idea-loopback-recovery`
   - 主题：IntelliJ IDEA 中与 loopback、askpass、Git 交互相关的问题恢复流程。
-  - 来源：整理自你的仓库 `idea-loopback-recovery`。
   - 标签：`IDEA`、`JetBrains`、`Git`、`askpass`、`loopback`、`Windows`
 
 ### deployment-and-ops
 
 - `skills/deployment-and-ops/openclaw/openclaw-ubuntu-install`
   - 主题：Ubuntu 服务器上使用 `nvm + Node.js 22 + systemd` 安装和稳定运行 OpenClaw 的流程。
-  - 来源：整理自 `E:/aitest/demo/OPENCLAW_UBUNTU_INSTALL.md`。
   - 标签：`OpenClaw`、`Ubuntu`、`nvm`、`Node.js`、`systemd`、`SSH`、`VPS`
 
 - `skills/deployment-and-ops/openclaw/feishu-multiagent-troubleshooting`
   - 主题：OpenClaw 接入飞书后，多 Agent 编排、机器人绑定、私聊或群聊不回复、mention 识别失败等问题的排查流程。
-  - 来源：整理自 `tmpdoc/feishu-multiagent-troubleshooting`。
   - 标签：`OpenClaw`、`Feishu`、`多 Agent`、`Agent2Agent`、`群聊`、`机器人绑定`、`故障排查`
 
 ## 目录结构
